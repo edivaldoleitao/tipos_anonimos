@@ -1,0 +1,18 @@
+C:\Users\Win10\Documents\c#\tipos anonimos\bin\Debug\net8.0\tipos anonimos.exe
+C:\Users\Win10\Documents\c#\tipos anonimos\bin\Debug\net8.0\tipos anonimos.deps.json
+C:\Users\Win10\Documents\c#\tipos anonimos\bin\Debug\net8.0\tipos anonimos.runtimeconfig.json
+C:\Users\Win10\Documents\c#\tipos anonimos\bin\Debug\net8.0\tipos anonimos.dll
+C:\Users\Win10\Documents\c#\tipos anonimos\bin\Debug\net8.0\tipos anonimos.pdb
+C:\Users\Win10\Documents\c#\tipos anonimos\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.AssemblyInfo.cs
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.sourcelink.json
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.csproj.CopyComplete
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.dll
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\refint\tipos anonimos.dll
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.pdb
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\tipos anonimos.genruntimeconfig.cache
+C:\Users\Win10\Documents\c#\tipos anonimos\obj\Debug\net8.0\ref\tipos anonimos.dll

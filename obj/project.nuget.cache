@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2kmmHc4IRPeZxClfubFsNjnfz0y8BN34YoaAYVATVGx3GLzJpuQoRowmck7P2jBz17A9yio434asEvP8WlMTlA==",
+  "dgSpecHash": "hjlPaeH2aB/dJTU99yJXVQ0hNv+Wxce7fShEY0tI5iIpON+U69sgZfxUWLpbAoCpdCEqCwNy+Jx3v5qicMhYjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Win10\\Documents\\c#\\tipos anonimos\\tipos anonimos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

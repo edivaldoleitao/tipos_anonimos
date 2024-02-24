@@ -11,7 +11,7 @@ foreach (var venda in listaAnonimo)
 {
     Console.WriteLine($"nome: {venda.Produto}, ID: {venda.Produto}");
 }
-
+ 
 
 // var tipoAnonimo = new {Nome="nome", Sobrenome="sobre", idade=12};
 
